@@ -26,10 +26,10 @@
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tharnish-palanisamy/)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/__tharnish__/)
+[![YouTube](https://img.icons8.com/color/48/youtube-play.png)](https://www.youtube.com/@AlgoFlowTamil)
 <a href="https://leetcode.com/u/tharnishpalanisamy/">
     <img src="https://cdn.simpleicons.org/leetcode" height="45" width="45" alt="LeetCode">
   </a>
-  [![YouTube](https://img.icons8.com/color/48/youtube-play.png)](https://www.youtube.com/@AlgoFlowTamil)
 
 ---
 
