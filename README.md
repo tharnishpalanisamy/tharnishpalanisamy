@@ -12,13 +12,13 @@
 
 ### 👨‍💻 About Me
 
-- 💻 Currently learning **React**
-- 🧠 Practicing **Data Structures & Algorithms**
-- ⚛️ Building projects with **React & JavaScript**
-- 🐍 Also working with **Python**
-- 🗄️ Experience with **SQL & MongoDB**
-- 🚀 Focused on becoming a strong Software Developer
 
+- 💻 Software Developer focused on building modern, responsive web applications
+- ⚛️ Working with **React & JavaScript** to create dynamic user experiences
+- 🧠 Strong foundation in **Data Structures & Algorithms** and problem solving
+- 🗄️ Experienced with **SQL Server, MySQL & MongoDB**
+- 🐍 Comfortable working with **Python & C++ **
+- 🚀 Always exploring better ways to design, build, and improve software
 ---
 
 ### 🌐 Connect with me
