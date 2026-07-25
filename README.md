@@ -44,7 +44,6 @@
 [![jQuery](https://skillicons.dev/icons?i=jquery)](https://jquery.com/)
 [![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
-[![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net/)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
