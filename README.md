@@ -40,13 +40,64 @@
 <h3 align="left">🛠️ Languages & Tools</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,jquery,cpp,python,git,github,mysql,postgres,mongodb,vscode" />
-</p>
 
-<p align="left">
-  <strong>Also worked with:</strong> Microsoft SQL Server
-</p>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <img src="https://skillicons.dev/icons?i=html" height="45" />
+</a>
 
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img src="https://skillicons.dev/icons?i=css" height="45" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://skillicons.dev/icons?i=js" height="45" />
+</a>
+
+<a href="https://react.dev/">
+  <img src="https://skillicons.dev/icons?i=react" height="45" />
+</a>
+
+<a href="https://getbootstrap.com/">
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="45" />
+</a>
+
+<a href="https://jquery.com/">
+  <img src="https://skillicons.dev/icons?i=jquery" height="45" />
+</a>
+
+<a href="https://isocpp.org/">
+  <img src="https://skillicons.dev/icons?i=cpp" height="45" />
+</a>
+
+<a href="https://www.python.org/">
+  <img src="https://skillicons.dev/icons?i=python" height="45" />
+</a>
+
+<a href="https://www.php.net/">
+  <img src="https://skillicons.dev/icons?i=php" height="45" />
+</a>
+
+<a href="https://git-scm.com/">
+  <img src="https://skillicons.dev/icons?i=git" height="45" />
+</a>
+
+<a href="https://github.com/">
+  <img src="https://skillicons.dev/icons?i=github" height="45" />
+</a>
+
+<a href="https://www.mysql.com/">
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" />
+</a>
+
+<a href="https://www.postgresql.org/">
+  <img src="https://skillicons.dev/icons?i=postgres" height="45" />
+</a>
+
+<a href="https://www.mongodb.com/">
+  <img src="https://skillicons.dev/icons?i=mongodb" height="45" />
+</a>
+
+</p>
 ---
 
 ### 📊 GitHub Stats
