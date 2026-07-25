@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tharnish</h1>
 
 <h3 align="center">
-  Software Developer from India 🇮🇳
+  Software Engineer from India 🇮🇳
 </h3>
 
 <p align="center">
@@ -13,7 +13,7 @@
 ### 👨‍💻 About Me
 
 
-- 💻 Software Developer focused on building modern, responsive web applications
+- 💻 Software Engineer focused on building modern, responsive web applications
 - ⚛️ Working with **React & JavaScript** to create dynamic user experiences
 - 🧠 Strong foundation in **Data Structures & Algorithms** and problem solving
 - 🗄️ Experienced with **SQL Server, MySQL & MongoDB**
@@ -23,15 +23,10 @@
 
 ### 🌐 Connect with me
 
-<p align="left">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
-  </a>
-  &nbsp;
-  <a href="YOUR_LEETCODE_URL">
-    <img src="https://cdn.simpleicons.org/leetcode" height="45" />
-  </a>
-</p>
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tharnish-palanisamy/)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/__tharnish__/)
+[![LeetCode](https://cdn.simpleicons.org/leetcode)](https://leetcode.com/u/tharnishpalanisamy/)
 
 ---
 
