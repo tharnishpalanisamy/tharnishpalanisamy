@@ -37,14 +37,14 @@
 
 ### 🛠️ Languages & Tools
 
+<h3 align="left">🛠️ Languages & Tools</h3>
+
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,jquery,cpp,python,php,git,github,mysql,postgres,mongodb" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=cpp,python,js,react,html,css" />
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=bootstrap,mongodb,mysql,git,github,vscode" />
-
+<p align="left">
+  <strong>Also worked with:</strong> Microsoft SQL Server
 </p>
 
 ---
