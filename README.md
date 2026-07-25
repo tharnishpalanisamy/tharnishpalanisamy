@@ -24,10 +24,9 @@
 ### 🌐 Connect with me
 
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tharnish-palanisamy/)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/__tharnish__/)
-[![LeetCode](https://cdn.simpleicons.org/leetcode)](https://leetcode.com/u/tharnishpalanisamy/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharnish-palanisamy/)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/__tharnish__/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/tharnishpalanisamy/)
 ---
 
 ### 🛠️ Languages & Tools
