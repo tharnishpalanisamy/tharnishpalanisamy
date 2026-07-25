@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  Building my skills in Web Development & Data Structures and Algorithms
+  Building modern web applications & solving problems through Data Structures and Algorithms
 </p>
 
 ---
@@ -16,8 +16,9 @@
 - 💻 Software Engineer focused on building modern, responsive web applications
 - ⚛️ Working with **React & JavaScript** to create dynamic user experiences
 - 🧠 Strong foundation in **Data Structures & Algorithms** and problem solving
+- 🎥 Creating programming & DSA content in Tamil on **AlgoFlow Tamil**
 - 🗄️ Experienced with **SQL Server, MySQL & MongoDB**
-- 🐍 Comfortable working with **Python & C++ **
+- 🐍 Comfortable working with **Python & C++**
 - 🚀 Always exploring better ways to design, build, and improve software
 ---
 
@@ -28,6 +29,7 @@
 <a href="https://leetcode.com/u/tharnishpalanisamy/">
     <img src="https://cdn.simpleicons.org/leetcode" height="45" width="45" alt="LeetCode">
   </a>
+  [![YouTube](https://img.icons8.com/color/48/youtube-play.png)](https://www.youtube.com/@AlgoFlowTamil)
 
 ---
 
@@ -47,9 +49,3 @@
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
 ---
 
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tharnishpalanisamy&theme=github_dark)
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tharnishpalanisamy&theme=github_dark)
