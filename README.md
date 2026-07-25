@@ -47,16 +47,9 @@
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
 ---
 
+
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark"
-  />
-</p>
+![Tharnish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tharnishpalanisamy&show_icons=true&theme=github_dark)
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark"
-  />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tharnishpalanisamy&layout=compact&theme=github_dark)
