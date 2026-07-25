@@ -1,16 +1,64 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Tharnish</h1>
 
-<!--
-**tharnishpalanisamy/tharnishpalanisamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  Software Developer from India 🇮🇳
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Building my skills in Web Development & Data Structures and Algorithms
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+- 💻 Currently learning **React**
+- 🧠 Practicing **Data Structures & Algorithms**
+- ⚛️ Building projects with **React & JavaScript**
+- 🐍 Also working with **Python**
+- 🗄️ Experience with **SQL & MongoDB**
+- 🚀 Focused on becoming a strong Software Developer
+
+---
+
+### 🌐 Connect with me
+
+<p align="left">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+  &nbsp;
+  <a href="YOUR_LEETCODE_URL">
+    <img src="https://cdn.simpleicons.org/leetcode" height="45" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,js,react,html,css" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=bootstrap,mongodb,mysql,git,github,vscode" />
+
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark"
+  />
+</p>
