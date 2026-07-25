@@ -21,12 +21,22 @@
 - 🚀 Always exploring better ways to design, build, and improve software
 ---
 
-### 🌐 Connect with me
+<h3>🌐 Connect with me</h3>
 
+<p>
+  <a href="https://www.linkedin.com/in/tharnish-palanisamy/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn">
+  </a>&nbsp;
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharnish-palanisamy/)
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/__tharnish__/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/tharnishpalanisamy/)
+  <a href="https://www.instagram.com/__tharnish__/">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram">
+  </a>&nbsp;
+
+  <a href="https://leetcode.com/u/tharnishpalanisamy/">
+    <img src="https://cdn.simpleicons.org/leetcode" height="45" width="45" alt="LeetCode">
+  </a>
+</p>
+
 ---
 
 ### 🛠️ Languages & Tools
