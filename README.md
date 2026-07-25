@@ -36,68 +36,20 @@
 ---
 
 ### 🛠️ Languages & Tools
-
-<h3 align="left">🛠️ Languages & Tools</h3>
-
-<p align="left">
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img src="https://skillicons.dev/icons?i=html" height="45" />
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img src="https://skillicons.dev/icons?i=css" height="45" />
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://skillicons.dev/icons?i=js" height="45" />
-</a>
-
-<a href="https://react.dev/">
-  <img src="https://skillicons.dev/icons?i=react" height="45" />
-</a>
-
-<a href="https://getbootstrap.com/">
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="45" />
-</a>
-
-<a href="https://jquery.com/">
-  <img src="https://skillicons.dev/icons?i=jquery" height="45" />
-</a>
-
-<a href="https://isocpp.org/">
-  <img src="https://skillicons.dev/icons?i=cpp" height="45" />
-</a>
-
-<a href="https://www.python.org/">
-  <img src="https://skillicons.dev/icons?i=python" height="45" />
-</a>
-
-<a href="https://www.php.net/">
-  <img src="https://skillicons.dev/icons?i=php" height="45" />
-</a>
-
-<a href="https://git-scm.com/">
-  <img src="https://skillicons.dev/icons?i=git" height="45" />
-</a>
-
-<a href="https://github.com/">
-  <img src="https://skillicons.dev/icons?i=github" height="45" />
-</a>
-
-<a href="https://www.mysql.com/">
-  <img src="https://skillicons.dev/icons?i=mysql" height="45" />
-</a>
-
-<a href="https://www.postgresql.org/">
-  <img src="https://skillicons.dev/icons?i=postgres" height="45" />
-</a>
-
-<a href="https://www.mongodb.com/">
-  <img src="https://skillicons.dev/icons?i=mongodb" height="45" />
-</a>
-
-</p>
+[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
+[![jQuery](https://skillicons.dev/icons?i=jquery)](https://jquery.com/)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+[![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net/)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
 ---
 
 ### 📊 GitHub Stats
