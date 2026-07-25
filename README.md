@@ -40,7 +40,7 @@
 <h3 align="left">🛠️ Languages & Tools</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,jquery,cpp,python,php,git,github,mysql,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,jquery,cpp,python,git,github,mysql,postgres,mongodb,vscode" />
 </p>
 
 <p align="left">
