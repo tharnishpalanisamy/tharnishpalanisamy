@@ -53,3 +53,9 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tharnishpalanisamy&show_icons=true&theme=github_dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tharnishpalanisamy&layout=compact&theme=github_dark&hide_border=true)
+
+
+
+### 🧩 LeetCode
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-tharnishpalanisamy-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/tharnishpalanisamy/)
