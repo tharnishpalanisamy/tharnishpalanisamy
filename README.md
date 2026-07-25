@@ -25,6 +25,7 @@
 ### 🌐 Connect with me
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tharnish-palanisamy/)
+[![Email](https://img.icons8.com/color/48/gmail-new.png)](mailto:tharnishpalanisamy3@gmail.com)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/__tharnish__/)
 [![YouTube](https://img.icons8.com/color/48/youtube-play.png)](https://www.youtube.com/@AlgoFlowTamil)
 <a href="https://leetcode.com/u/tharnishpalanisamy/">
