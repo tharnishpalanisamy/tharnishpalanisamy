@@ -21,21 +21,11 @@
 - 🚀 Always exploring better ways to design, build, and improve software
 ---
 
-<h3>🌐 Connect with me</h3>
+### 🌐 Connect with me
 
-<p>
-  <a href="https://www.linkedin.com/in/tharnish-palanisamy/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn">
-  </a>&nbsp;
-
-  <a href="https://www.instagram.com/__tharnish__/">
-    <img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram">
-  </a>&nbsp;
-
-  <a href="https://leetcode.com/u/tharnishpalanisamy/">
-    <img src="https://cdn.simpleicons.org/leetcode" height="45" width="45" alt="LeetCode">
-  </a>
-</p>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tharnish-palanisamy/)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/__tharnish__/)
+[![LeetCode](https://img.icons8.com/?size=48&id=wDGo581Ea5Nf&format=png)](https://leetcode.com/u/tharnishpalanisamy/)
 
 ---
 
