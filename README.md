@@ -32,7 +32,7 @@
     <img src="https://cdn.simpleicons.org/leetcode" height="45" width="45" alt="LeetCode">
   </a>
 
----
+---     
 
 ### 🛠️ Languages & Tools
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
