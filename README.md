@@ -51,6 +51,3 @@
 ---
 
 
-## 🧑‍💻 Most Used Languages
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tharnishpalanisamy&theme=github_dark)
