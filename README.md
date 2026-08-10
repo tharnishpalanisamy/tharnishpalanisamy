@@ -51,4 +51,6 @@
 ---
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tharnishpalanisamy&layout=compact&hide_border=true&theme=tokyonight)
+## 🧑‍💻 Most Used Languages
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tharnishpalanisamy&theme=github_dark)
