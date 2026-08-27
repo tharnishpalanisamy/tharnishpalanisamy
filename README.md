@@ -45,6 +45,7 @@
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
+[![SQL Server](https://skillicons.dev/icons?i=mssql)](https://www.microsoft.com/en-us/sql-server/)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
