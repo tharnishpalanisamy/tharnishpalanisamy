@@ -38,10 +38,10 @@
 
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
-[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
 [![jQuery](https://skillicons.dev/icons?i=jquery)](https://jquery.com/)
 [![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
