@@ -1,56 +1,70 @@
-<h1 align="center">Hi 👋, I'm Tharnish</h1>
+# Hi 👋, I'm Tharnish
 
-<h3 align="center">
-  Software Engineer from India 🇮🇳
-</h3>
+<h3 align="center">Software Engineer | Full-Stack Developer 🇮🇳</h3>
 
 <p align="center">
-  Building modern web applications & solving problems through Data Structures and Algorithms
+  Building modern web applications, designing REST APIs, and solving problems through Data Structures & Algorithms.
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
+- 💻 Building full-stack applications with **React, TypeScript, Python, and FastAPI**
+- ⚙️ Developing REST APIs with a focus on clean architecture, separation of concerns, and maintainable code
+- 🗄️ Working with **PostgreSQL, SQLAlchemy, Psycopg, and Alembic** for database operations and migrations
+- 🔐 Implementing authentication, password hashing, JWT, and request validation
+- 🧠 Practicing **Data Structures & Algorithms** and strengthening problem-solving skills
+- 🧪 Learning backend testing, asynchronous programming, database connection pooling, and production-level best practices
+- 🚀 Continuously improving my skills by building real-world projects
 
-- 💻 Software Engineer focused on building modern, responsive web applications
-- ⚛️ Working with **React & JavaScript** to create dynamic user experiences
-- 🧠 Strong foundation in **Data Structures & Algorithms** and problem solving
-- 🎥 Creating programming & DSA content in Tamil on **AlgoFlow Tamil**
-- 🗄️ Experienced with **SQL Server, MySQL & MongoDB**
-- 🐍 Comfortable working with **Python & C++**
-- 🚀 Always exploring better ways to design, build, and improve software
 ---
 
-### 🌐 Connect with me
+### 🌐 Connect with Me
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tharnish-palanisamy/)
-[![Email](https://img.icons8.com/color/48/gmail-new.png)](mailto:tharnishpalanisamy3@gmail.com)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/__tharnish__/)
-[![YouTube](https://img.icons8.com/color/48/youtube-play.png)](https://www.youtube.com/@AlgoFlowTamil)
-<a href="https://leetcode.com/u/tharnishpalanisamy/">
-    <img src="https://cdn.simpleicons.org/leetcode" height="45" width="45" alt="LeetCode">
+<p align="left">
+  <a href="https://www.linkedin.com/in/tharnish-palanisamy/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
   </a>
+  <a href="mailto:tharnishpalanisamy3@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" height="40" alt="Email"/>
+  </a>
+  <a href="https://www.instagram.com/__tharnish__/">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/>
+  </a>
+  <a href="https://leetcode.com/u/tharnishpalanisamy/">
+    <img src="https://cdn.simpleicons.org/leetcode" height="40" alt="LeetCode"/>
+  </a>
+</p>
 
----     
+---
 
 ### 🛠️ Languages & Tools
 
-[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
-[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
-[![jQuery](https://skillicons.dev/icons?i=jquery)](https://jquery.com/)
-[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
-[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
-[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
------------------------------------------------------------------------------- 
+#### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,jquery" alt="Frontend technologies"/>
+</p>
 
+#### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi" alt="Backend technologies"/>
+</p>
 
+#### Databases & ORM
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="Databases"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
+  <img src="https://img.shields.io/badge/Alembic-6BA81E?style=flat" alt="Alembic"/>
+</p>
 
+#### Tools & Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,cpp" alt="Git, GitHub, and C++"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Building, learning, and getting better with every commit. 🚀</i>
+</p>
