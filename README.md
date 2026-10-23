@@ -1,4 +1,4 @@
-# Hi 👋, I'm Tharnish
+<h1 align="center">Hi 👋, I'm Tharnish</h1>
 
 <h3 align="center">Software Engineer from India 🇮🇳</h3>
 
@@ -53,11 +53,11 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS3"/>
   </a>
+    <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="Bootstrap"/>
+  </a>
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="Tailwind CSS"/>
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="Bootstrap"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript"/>
@@ -71,11 +71,11 @@
   <a href="https://jquery.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=jquery" height="45" alt="jQuery"/>
   </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=fastapi" height="45" alt="FastAPI"/>
-  </a>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=fastapi" height="45" alt="FastAPI"/>
   </a>
   <a href="https://isocpp.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="C++"/>
