@@ -68,9 +68,6 @@
   <a href="https://react.dev/" target="_blank">
     <img src="https://skillicons.dev/icons?i=react" height="45" alt="React"/>
   </a>
-  <a href="https://jquery.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=jquery" height="45" alt="jQuery"/>
-  </a>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python"/>
   </a>
