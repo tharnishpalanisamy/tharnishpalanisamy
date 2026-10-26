@@ -1,64 +1,66 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Tharnish</h1>
+<h3 align="center">Software Engineer from India 🇮🇳</h3>
 
-# Hey, I'm Tharnish 👋
-
-### Software Engineer | Full-Stack Developer
-
-Building web applications, exploring AI, and learning by creating projects. 🇮🇳
-
-<a href="https://www.linkedin.com/in/tharnish-palanisamy/">LinkedIn</a> ·
-<a href="mailto:tharnishpalanisamy3@gmail.com">Email</a> ·
-<a href="https://www.youtube.com/@AlgoFlowTamil">YouTube</a> ·
-<a href="https://leetcode.com/u/tharnishpalanisamy/">LeetCode</a>
-
-</div>
+<p align="center">
+  Building modern web applications & solving problems through Data Structures and Algorithms
+</p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 💻 Software Engineer interested in building practical web applications.
-- ⚛️ Working with React, JavaScript, and TypeScript.
-- ⚡ Building backend APIs using Python, FastAPI, and SQLAlchemy.
-- 🗄️ Working with PostgreSQL, MySQL, SQL Server, and MongoDB.
-- 🤖 Exploring AI/ML and integrating AI into applications.
-- 🧩 Practicing DSA and improving my programming skills.
-- 🎥 Creating programming content in Tamil through AlgoFlow Tamil.
-- 🚀 Learning by building projects and exploring new technologies.
-
----
-
-### 🛠️ Tech Stack
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap" alt="Frontend technologies"/>
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=python,fastapi" alt="Backend technologies"/> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/> <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic"/>
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="Databases"/> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-
-**Tools & Other Languages**
-
-<img src="https://skillicons.dev/icons?i=git,github,cpp,vscode" alt="Tools and languages"/>
+- 💻 Software Engineer focused on building modern, responsive web applications
+- ⚛️ Building dynamic user experiences with **React, JavaScript & TypeScript**
+- ⚡ Developing backend APIs using **FastAPI & Python**
+- 🎨 Creating responsive interfaces with **Tailwind CSS**
+- 🧠 Strong foundation in **Data Structures & Algorithms** and problem solving
+- 🎥 Creating programming & DSA content in Tamil on **AlgoFlow Tamil**
+- 🗄️ Working with **PostgreSQL, SQL Server, MySQL & MongoDB**
+- 🐍 Comfortable working with **Python & C++**
+- 🚀 Always exploring better ways to design, build, and improve software
 
 ---
 
-### 🚧 What I'm Working On
+## 🌐 Connect with Me
 
-- Building full-stack projects with React and FastAPI.
-- Learning authentication, authorization, and secure API development.
-- Improving my database design and backend architecture skills.
-- Exploring AI integrations and RAG-based applications.
+<p align="left">
+  <a href="https://www.linkedin.com/in/tharnish-palanisamy/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="mailto:tharnishpalanisamy3@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" height="45" alt="Email" />
+  </a>&nbsp;
+  <a href="https://www.instagram.com/__tharnish__/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram" />
+  </a>&nbsp;
+  <a href="https://www.youtube.com/@AlgoFlowTamil" target="_blank">
+    <img src="https://img.icons8.com/color/48/youtube-play.png" height="45" alt="YouTube" />
+  </a>&nbsp;
+  <a href="https://leetcode.com/u/tharnishpalanisamy/" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode" height="45" width="45" alt="LeetCode" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
+## 🛠️ Languages & Tools
 
-*Building things, learning along the way. 🚀*
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="Bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="Tailwind CSS"/>
+  <img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=react" height="45" alt="React"/>
+  <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" height="45" alt="FastAPI"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="C++"/>
+  <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="MongoDB"/>
+</p>
 
-</div>
+---
