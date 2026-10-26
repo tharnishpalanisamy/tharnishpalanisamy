@@ -25,24 +25,22 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/tharnish-palanisamy/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:tharnishpalanisamy3@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" height="45" alt="Email"/>
-  </a>
-  <a href="https://www.instagram.com/__tharnish__/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram"/>
-  </a>
-  <a href="https://www.youtube.com/@AlgoFlowTamil" target="_blank">
-    <img src="https://img.icons8.com/color/48/youtube-play.png" height="45" alt="YouTube"/>
-  </a>
-  <a href="https://leetcode.com/u/tharnishpalanisamy/" target="_blank">
-    <img src="https://cdn.simpleicons.org/leetcode" height="45" width="45" alt="LeetCode"/>
+  <a href="https://www.linkedin.com/in/tharnish-palanisamy/" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" style="display: inline-block; border: none;"/>
+  </a>&nbsp;
+  <a href="mailto:tharnishpalanisamy3@gmail.com" style="text-decoration: none;">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" height="45" alt="Email" style="display: inline-block; border: none;"/>
+  </a>&nbsp;
+  <a href="https://www.instagram.com/__tharnish__/" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram" style="display: inline-block; border: none;"/>
+  </a>&nbsp;
+  <a href="https://www.youtube.com/@AlgoFlowTamil" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/color/48/youtube-play.png" height="45" alt="YouTube" style="display: inline-block; border: none;"/>
+  </a>&nbsp;
+  <a href="https://leetcode.com/u/tharnishpalanisamy/" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.simpleicons.org/leetcode" height="45" width="45" alt="LeetCode" style="display: inline-block; border: none;"/>
   </a>
 </p>
-
----
 
 ### 🛠️ Languages & Tools
 
