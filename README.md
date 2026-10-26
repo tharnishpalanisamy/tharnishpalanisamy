@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tharnish</h1>
+ <h1 align="center">Hi 👋, I'm Tharnish</h1>
 
 <h3 align="center">Software Engineer from India 🇮🇳</h3>
 
@@ -47,51 +47,21 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML5"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS3"/>
-  </a>
-    <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="Bootstrap"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="Tailwind CSS"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=ts" height="45" alt="TypeScript"/>
-  </a>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" height="45" alt="React"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python"/>
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=fastapi" height="45" alt="FastAPI"/>
-  </a>
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="C++"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="PostgreSQL"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="MongoDB"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="Bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="Tailwind CSS"/>
+  <img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=react" height="45" alt="React"/>
+  <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" height="45" alt="FastAPI"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="C++"/>
+  <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="MongoDB"/>
 </p>
 
 ---
