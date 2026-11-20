@@ -23,24 +23,11 @@
 
 ## 🌐 Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/tharnish-palanisamy/" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
-  </a>&nbsp;
-  <a href="mailto:tharnishpalanisamy3@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" height="45" alt="Email" />
-  </a>&nbsp;
-  <a href="https://www.instagram.com/__tharnish__/" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram" />
-  </a>&nbsp;
-  <a href="https://www.youtube.com/@AlgoFlowTamil" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/48/youtube-play.png" height="45" alt="YouTube" />
-  </a>&nbsp;
-  <a href="https://leetcode.com/u/tharnishpalanisamy/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/leetcode" height="45" width="45" alt="LeetCode" />
-  </a>
-</p>
-
+[<img src="https://skillicons.dev/icons?i=linkedin" height="45" />](https://www.linkedin.com/in/tharnish-palanisamy/)
+[<img src="https://img.icons8.com/color/48/gmail-new.png" height="45" />](mailto:tharnishpalanisamy3@gmail.com)
+[<img src="https://skillicons.dev/icons?i=instagram" height="45" />](https://www.instagram.com/__tharnish__/)
+[<img src="https://img.icons8.com/color/48/youtube-play.png" height="45" />](https://www.youtube.com/@AlgoFlowTamil)
+[<img src="https://cdn.simpleicons.org/leetcode" height="45" />](https://leetcode.com/u/tharnishpalanisamy/)
 ---
 
 ## 🛠️ Languages & Tools
