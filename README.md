@@ -42,14 +42,13 @@
   <img src="https://skillicons.dev/icons?i=react" height="45" alt="React"/>
   <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python"/>
   <img src="https://skillicons.dev/icons?i=fastapi" height="45" alt="FastAPI"/>
-  <img src="https://skillicons.dev/icons?i=docker" height="45" alt="Docker"/>
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="45" alt="Docker"/>
   <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="C++"/>
   <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git"/>
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL"/>
   <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="PostgreSQL"/>
   <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="MongoDB"/>
-  <img src="https://skillicons.dev/icons?i=docker" height="45" alt="Docker"/>
 </p>
 
 ---
