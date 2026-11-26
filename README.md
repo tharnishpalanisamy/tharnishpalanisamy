@@ -42,6 +42,7 @@
   <img src="https://skillicons.dev/icons?i=react" height="45" alt="React"/>
   <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python"/>
   <img src="https://skillicons.dev/icons?i=fastapi" height="45" alt="FastAPI"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="45" alt="Docker"/>
   <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="C++"/>
   <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git"/>
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
