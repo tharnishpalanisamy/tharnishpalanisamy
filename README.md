@@ -49,6 +49,7 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL"/>
   <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="PostgreSQL"/>
   <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="45" alt="Docker"/>
 </p>
 
 ---
